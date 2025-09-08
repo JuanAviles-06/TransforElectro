@@ -212,7 +212,7 @@ function Areas() {
              <button
               onClick={() =>
                 abrirPopup(
-                  "Sensores de luz",
+                  "Diseño y simulación",
                   "Esta área es el punto de partida donde las ideas y conceptos electrónicos toman forma digital. Aquí se utilizan softwares especializados (CAD) para crear esquemas de circuitos, diseñar placas de circuito impreso (PCB) y simular su funcionamiento. Permite a los ingenieros y diseñadores prever el comportamiento del circuito, identificar posibles errores y optimizar el diseño antes de pasar a la fase de prototipado físico, ahorrando tiempo y recursos."
                 )
               }
@@ -350,7 +350,7 @@ function Areas() {
           </div>
         </section>
 
-        {/* Apartado 6 - SENSORES DE SONIDO */}
+        {/* Apartado 6*/}
         <section className="content-section animate-on-scroll">
           <div className="text-content">
             <h3>Panel Solar</h3>
